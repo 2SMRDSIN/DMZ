@@ -4,7 +4,7 @@ GAD#show running-config
 hostname GAD
 !
 interface FastEthernet0
-ip address 10.1.1.1 255.255.255.0
+ip address 10.1.1.4 255.255.255.0
 !
 interface Serial0
 ip address 172.16.1.4 255.255.255.0
