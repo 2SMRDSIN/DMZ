@@ -23,7 +23,7 @@ ISP#show running-config
 hostname ISP
 !
 interface FastEthernet0
-ip address 172.16.2.1 255.255.255.0
+ip address 1o.1.1.4  255.255.255.0
 !
 interface Serial0
 ip address 172.16.1.1 255.255.255.0
